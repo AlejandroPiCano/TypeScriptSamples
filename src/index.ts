@@ -1,4 +1,4 @@
-import { GitHubApiServiceIndex } from './Testing GitHub Api/GitHubApiServiceIndex';
+import { GitHubApiServiceIndex } from './TestingGitHubApi/GitHubApiServiceIndex';
 
 let gitHubServiceIndex = new GitHubApiServiceIndex();
 gitHubServiceIndex.ShowDemo();
